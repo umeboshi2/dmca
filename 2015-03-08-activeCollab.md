@@ -2,13 +2,13 @@ Hi,
 
 I have read and understand GitHub's Guide to Filing a DMCA Notice.
 
-The infringed copyrighted work is our application, activeCollab (www.activeCollab.com <http://www.activecollab.com/>) While we do allow our customers to download and self-host our app, our license agreement clearly prohibits sharing: https://activecollab.com/help/books/licensing/self-hosted-license-agreement.html <https://activecollab.com/help/books/licensing/self-hosted-license-agreement.html>
+The infringed copyrighted work is our application, activeCollab (www.activeCollab.com) While we do allow our customers to download and self-host our app, our license agreement clearly prohibits sharing: https://activecollab.com/help/books/licensing/self-hosted-license-agreement.html
 
 The following two links of the hosted content are a direct, literal copy of our work:
 
-https://github.com/benabhi/ActiveCollab <https://github.com/benabhi/ActiveCollab>
+https://github.com/benabhi/ActiveCollab
 
-https://github.com/dbachmann/activeCollab/tree/master/activecollab.dev <https://github.com/dbachmann/activeCollab/tree/master/activecollab.dev>
+https://github.com/dbachmann/activeCollab/tree/master/activecollab.dev
 
 I confirm that I have investigated each individual case and that my statements apply to each identified fork. In order to avoid having the rest of their content disabled, please ask the user to remove the offending material - everything on the links provided above.
 
