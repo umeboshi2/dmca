@@ -18,7 +18,8 @@ github.com - The whole directory
 
 Host IP Address:
 
-[REDACTED]
+192.30.252.131
+
 
 Dear Sir or Madam,
 
