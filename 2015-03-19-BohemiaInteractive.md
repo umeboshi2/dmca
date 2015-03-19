@@ -34,10 +34,10 @@ contact me at the address or email address indicated below.
 
 Yours faithfully,
 
-[REDACTED]
+[REDACTED]  
 Legal Department
 
-*Bohemia Interactive a.s.*
+*Bohemia Interactive a.s.*  
 [REDACTED]
 
 Email: [REDACTED]
