@@ -9,13 +9,7 @@ the Digital Millennium Copyright Act, or "DMCA";
 
 [3] I May Be Contacted At:
 
-Name of Injured Party : DAVID MICHAEL PENNINGTON
-Name and Title:
-Address: 313 CADDO LAKE DRIVE
-City, State, and Zip: GEORGETOWN, TX 78628
-Email address: MIKE@PENNINGTON.NET <mailto:MIKE@PENNINGTON.NET>
-Telephone: 512-677-4911
-Keybase.io: https://keybase.io/mpenning
+[REDACTED]
 
 [4] I have a good faith belief that the files identified below (by URL) are
 unlawful under these laws because, among other things, the links offer to
@@ -64,5 +58,4 @@ Truthfully,
 
 //Signed//
 
-David Michael Pennington
-Keybase.io (PGP Keys): https://keybase.io/mpenning
+[REDACTED]
