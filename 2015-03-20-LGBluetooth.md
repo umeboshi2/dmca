@@ -4,7 +4,7 @@ Dear GitHub Copyright Agent,
 
 *2)* As you can see the copyright in LICENSE
 https://github.com/SocialObjects-Software/LGBluetooth/blob/master/LICENSE
-file belongs to me (REDACTED). Moreover, you may notice in the
+file belongs to me (DavidSahakyan). Moreover, you may notice in the
 README.md https://github.com/SocialObjects-Software/LGBluetooth/blob/master/README.md
 file (which is being shown in main page of the repository) there is an
 additional reference to the LICENSE file.
@@ -35,7 +35,7 @@ in, is completely stalled.
 https://github.com/SocialObjects-Software/LGBluetooth/
 
 *4)* I require the repository to be transferred back to my - l0gg3r
-https://github.com/l0gg3r account (the former REDACTED account).
+https://github.com/l0gg3r account (the former DavidSahakyan account).
 
 *5)* Hereby I provide my contact information:  
 REDACTED
