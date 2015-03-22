@@ -20,7 +20,7 @@ file. Please take a look for verification purposes.
 It is hereby requested that you remove or disable access to this materials
 as it appears on your service in as expedient fashion as possible.
 
-[REDACTED]
+[REDACTED] 
 
 I have a good faith belief that use of the material in the manner
 complained of is not authorized by the copyright holder, its agent, or the
