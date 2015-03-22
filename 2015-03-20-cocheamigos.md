@@ -7,28 +7,23 @@ At the moment there are a couple of public repositories opened called:
 
 https://github.com/meramoroscon/GALLINASLARAMONA and https://github.com/meramoroscon/PROYECTOTEST which contains folders and files called cocheamigos.
 
-I, Mercedes Amoros Conejero, do not authorize the contents of those two repositories being public.
+I, [private], do not authorize the contents of those two repositories being public.
 
-I, Mercedes Amoros Conejero, want the entire content of both repositories taken down as soon as possible.
+I, [private], want the entire content of both repositories taken down as soon as possible.
 
 This names have being indexed by google, therefore when someone makes a search for cocheamigos on google, this two repositories appears as results of the search. 
 
-This two repositories were opened as a proof of concept, with a user called meramoroscon linked to one google account which we cannot access to, because we lost the password and the mobile which is linked to recover the password 07586735670, is out of line, due to now we are living in Spain and we shut down that telephone line.
+This two repositories were opened as a proof of concept, with a user called meramoroscon linked to one google account which we cannot access to, because we lost the password and the mobile which is linked to recover the password [private], is out of line, due to now we are living in Spain and we shut down that telephone line.
 
-Also this repositories have a contributor which is josetortosacarcelen linked to josel.tortosacarcelen with the password 123456789abc and  he tried to removed that names pushing different names for the solution file and suo file on the repository https://github.com/meramoroscon/GALLINASLARAMONA in order to stop google indexing that names on the different searches for Cocheamigos.
+Also this repositories have a contributor which is josetortosacarcelen linked to josel.tortosacarcelen with the password [private[ and  he tried to removed that names pushing different names for the solution file and suo file on the repository https://github.com/meramoroscon/GALLINASLARAMONA in order to stop google indexing that names on the different searches for Cocheamigos.
+
 My current home address is:
 
-Calle Alcalde Jose Luis Lassaletta 17, esc: 4, piso: 5º 10. CP:03008, Alicante, Spain.
+[private]
 
 Emails: 
 
-mercedesamorosconejero@gmail.com
-
-meramoroscon@gmail.com
-
-amoros.mercedes@gmail.com
-
-Current phone: +34 687483712
+[private]
 
 So I am the owner of the repositories but due to I cannot access my user in github I would like to remove that public repositories as soon as you can.
 
@@ -40,4 +35,4 @@ Thank you for your time and attention,
 
 Kind regards,
 
-Mercedes Amoros Conejero
+[private]
