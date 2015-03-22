@@ -15,7 +15,7 @@ This names have being indexed by google, therefore when someone makes a search f
 
 This two repositories were opened as a proof of concept, with a user called meramoroscon linked to one google account which we cannot access to, because we lost the password and the mobile which is linked to recover the password [private], is out of line, due to now we are living in Spain and we shut down that telephone line.
 
-Also this repositories have a contributor which is josetortosacarcelen linked to josel.tortosacarcelen with the password [private[ and  he tried to removed that names pushing different names for the solution file and suo file on the repository https://github.com/meramoroscon/GALLINASLARAMONA in order to stop google indexing that names on the different searches for Cocheamigos.
+Also this repositories have a contributor which is josetortosacarcelen linked to josel.tortosacarcelen with the password [private] and  he tried to removed that names pushing different names for the solution file and suo file on the repository https://github.com/meramoroscon/GALLINASLARAMONA in order to stop google indexing that names on the different searches for Cocheamigos.
 
 My current home address is:
 
