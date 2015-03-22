@@ -2,7 +2,7 @@
 
 Dear GitHub,
 
-I am Rehan Adil, copyright holder of the works indicated below.
+I am [private], copyright holder of the works indicated below.
 
 I believe that there is certain material available at GitHub website that
 infringes at least one of copyrights held by the above mentioned party. The
