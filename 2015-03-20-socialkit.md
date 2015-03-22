@@ -19,9 +19,6 @@ file. Please take a look for verification purposes.
 
 It is hereby requested that you remove or disable access to this materials
 as it appears on your service in as expedient fashion as possible.
-![proof](
-https://cloud.githubusercontent.com/assets/4135702/6640235/267f8f6e-c9c0-11e4-92fc-a1ccc44f3d3e.png
-)
 
 I have a good faith belief that use of the material in the manner
 complained of is not authorized by the copyright holder, its agent, or the
