@@ -150,8 +150,6 @@ https://web.archive.org/web/20141119153709/https://github.com/wellsriley/Yosemit
 
 https://web.archive.org/web/20141119132024/https://github.com/wellsriley/YosemiteSanFranciscoFont/archive/slave.zip
 
+# https://github.com/github/dmca/blob/master/2015-03-20-socialkit.md
 
-
-#####
-https://cloud.githubusercontent.com/assets/4135702/6640235/267f8f6e-c9c0-11e4-92fc-a1ccc44f3d3e.png
-
+https://github.com/pradyo1sc/sc/commit/4acb9c01f7bf94fbff872e12a417ef65bbe17d36
