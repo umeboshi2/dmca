@@ -59,6 +59,9 @@ https://github.com/github/dmca/commit/f40a68740b3d1b749fed0deead5e0af9eccf740b#c
 
 http://hetaregrammer.blog.fc2.com/
 
+"Most codes are disassemble code, it was generated from ILSpy and etc."
+
+
 
 # https://github.com/github/dmca/blob/master/2015-03-12-VisualComposer.md
 
@@ -90,4 +93,65 @@ split license - https://wpbakery.atlassian.net/wiki/pages/viewpage.action?pageId
 While part of plugin coded with PHP goes under GPL license, all Javascript and CSS is not GPL, which in general restricts using Visual Composer under terms of GPL. Please read more about Split License at Envato.
 "
 
+
+# https://github.com/github/dmca/blob/master/2015-03-07-Manatee-Works.md
+
+"The user needs to modify these two lines as follows:
+
+BarcodeScanner.MWBregisterCode(BarcodeScanner.MWB_CODE_MASK_PDF, "username", "key");
+BarcodeScanner.MWBregisterCode(BarcodeScanner.MWB_CODE_MASK_QR, " username", "key");
+
+"
+
+
+# https://github.com/github/dmca/blob/master/2015-03-03-WGU.md
+
+https://github.com/FrozenDragoon/IntroOOD
+https://github.com/FrozenDragoon/WGUKET1Task1
+(task 2 seems to be restricted by WGU)
+
+# https://github.com/github/dmca/blob/master/2015-03-20-LGBluetooth.md
+
+DavidSahakyan
+
+requested xfer back to: -> https://github.com/l0gg3r
+
+l0gg3r forked SocialObjects-Software/LGBluetooth to l0gg3r/LGBluetooth  on Feb 21
+(Mar 20 date of dmca text)
+
+https://github.com/kickingvegas/YmsCoreBluetooth
+https://github.com/l0gg3r/YmsCoreBluetooth
+"A block-based framework for building Bluetooth 4.0 Low Energy (aka Smart or LE) iOS and OS X applications using the CoreBluetooth API. Includes Deanna and DeannaMac, applications to communicate with a TI SensorTag for iOS and OS X respectively."
+
+Repositories contributed to
+SocialObjects-Software/LGBluetooth 508 
+Simple, block-based, lightweight library over CoreBluetooth
+http://webcache.googleusercontent.com/search?q=cache:M0D69pfC0xcJ:https://github.com/SocialObjects-Software/LGBluetooth+&cd=1&hl=en&ct=clnk&gl=us
+(mit license) http://webcache.googleusercontent.com/search?q=cache:aw_7BCgjNq8J:https://github.com/SocialObjects-Software/LGBluetooth/blob/master/LICENSE+&cd=2&hl=en&ct=clnk&gl=us
+
+
+# https://github.com/github/dmca/blob/master/2015-01-22-Apple.md
+
+http://gizmodo.com/helvetica-is-the-worst-change-your-yosemite-font-to-sa-1668350413
+
+https://github.com/jenskutilek/FiraSystemFontReplacement
+
+https://en.wikipedia.org/wiki/San_Francisco_(1984_typeface)
+
+https://en.wikipedia.org/w/index.php?title=San_Francisco_(2014_typeface)&diff=prev&oldid=650751489
+
+http://www.maclife.com/article/columns/easy_mac_hacks_using_san_francisco_font_os_x_yosemite
+
+https://github.com/dtinth/YosemiteSystemFontPatcher
+
+https://medium.com/@dtinth/changing-the-system-font-on-yosemite-5870887e7b45
+
+https://web.archive.org/web/20141119153709/https://github.com/wellsriley/YosemiteSanFranciscoFont
+
+https://web.archive.org/web/20141119132024/https://github.com/wellsriley/YosemiteSanFranciscoFont/archive/slave.zip
+
+
+
+#####
+https://cloud.githubusercontent.com/assets/4135702/6640235/267f8f6e-c9c0-11e4-92fc-a1ccc44f3d3e.png
 
