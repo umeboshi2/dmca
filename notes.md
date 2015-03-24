@@ -196,3 +196,65 @@ ambiguous license statement, similar to envato stuff.
 "(1) The Python code and integrated HTML are licensed under the GPLv3 license as is RhodeCode itself.
 (2) All other parts of the RhodeCode including, but not limited to the CSS code, images, and design are licensed according to the license purchased."
 
+"acrimony and disagreement led to Kallithea's creation."
+
+
+https://kallithea-scm.org/repos/kallithea/raw/tip/LICENSE.md
+
+(I might start using kallithea, instead of gitolite...)
+
+
+(text from email requesting download... subscribe to mailing list first?)
+
+
+** Please Confirm Your Email:
+------------------------------------------------------------
+Yes, subscribe me to this list. (http://rhodecode.us9.list-manage.com/subscribe/confirm?u=299411843d7a3f65cb5932e14&id=dff1d19e66&e=cfbd9b91c0)
+After subscription to our mailing list you will instantly receive your download link via email.
+
+--
+If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above.
+
+For questions about this list, please contact:
+support@rhodecode.com (mailto:support@rhodecode.com)
+
+(email with download link)
+
+Hi Joseph,
+
+thank you for your subscribing to our mailing list, we created and signed a personal, highly-secure download for you:
+
+download your RhodeCode Enterprise 3 here (https://rhodecode.com/dls/rhodecode-enterprise-3-02-381-linux/?email=joseph.rawson.works@gmail.com)
+
+PLEASE READ:
+
+The subscription to this mailing list is required to get access to:
+* free support
+* free user licenses
+* free security updates
+* free installation & upgrade instructions
+* free onboarding & migration guides
+* free RhodeCode Community membership
+
+We will never abuse your trust by spamming, selling, or trading your data. Please reply to this email if you have any further questions.
+
+Welcome at the RhodeCode Community!
+
+Best regards,
+
+Your RhodeCode Team
+
+--
+
+For your records, here is a copy of the information you submitted to us...
+ 
+* Email Address: joseph.rawson.works@gmail.com   
+* First Name: Joseph   
+* Last Name: Rawson   
+
+If at any time you wish to stop receiving our emails, you can:
+unsubscribe here (http://rhodecode.us9.list-manage1.com/unsubscribe?u=299411843d7a3f65cb5932e14&id=dff1d19e66&e=cfbd9b91c0)
+You may also contact us at:
+support@rhodecode.com (mailto:support@rhodecode.com)
+
+(download size is 289 megabytes)
