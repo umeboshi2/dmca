@@ -153,3 +153,46 @@ https://web.archive.org/web/20141119132024/https://github.com/wellsriley/Yosemit
 # https://github.com/github/dmca/blob/master/2015-03-20-socialkit.md
 
 https://github.com/pradyo1sc/sc/commit/4acb9c01f7bf94fbff872e12a417ef65bbe17d36
+
+# https://github.com/github/dmca/blob/master/2014-09-19-minque-R.md
+
+
+
+# https://github.com/github/dmca/blob/master/2014-09-08-RhodeCode.md
+
+http://mercurial.selenic.com/wiki/RhodeCode
+
+https://pypi.python.org/pypi/RhodeCode/2.2.6 (empty package)
+
+
+
+(rhodecode)umeboshi@gazebo:~/Downloads/tmp/RhodeCode-2.2.6$ pip install RhodeCode
+Collecting RhodeCode
+  Downloading http://cypress:3141/root/pypi/+f/c7e/474dbbc2032f7/RhodeCode-2.2.6.tar.gz
+Installing collected packages: RhodeCode
+  Running setup.py install for RhodeCode
+            ***************************** IMPORTANT *****************************
+            RhodeCode installation via pypi is deprecated.
+            In order to maximize user experience we have launched a new
+            cross platform installer. Please contact us via support@rhodecode.com
+            for more information, or visit https://docs.rhodecode.com for
+            latest installation instructions.
+            ***************************** IMPORTANT *****************************
+Successfully installed RhodeCode-2.2.6
+
+
+http://sfconservancy.org/news/2014/jul/04/kallithea-joins/
+
+https://kallithea-scm.org/repos/
+
+https://kallithea-scm.org/
+
+"Kallithea, or ÎÎ±Î»Î»Î¹Î¸Î­Î±, is the name of a locality on the island of Rhodes, in Greece, which itself means âthe best viewâ. "
+
+http://sfconservancy.org/blog/2014/jul/15/why-kallithea/
+
+ambiguous license statement, similar to envato stuff.
+
+"(1) The Python code and integrated HTML are licensed under the GPLv3 license as is RhodeCode itself.
+(2) All other parts of the RhodeCode including, but not limited to the CSS code, images, and design are licensed according to the license purchased."
+
