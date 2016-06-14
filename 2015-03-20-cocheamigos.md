@@ -1,5 +1,4 @@
 Dear Madam/Sir,
-
 I have read and understand GitHub's Guide to Filing a DMCA Notice.
 
 I am the owner of the domain cocheamigos.com and the author of all content related to it. I am using the hosting provided by tsohost.co.uk and I am on the process of registering the brand "cocheamigos".
